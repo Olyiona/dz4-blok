@@ -1,0 +1,61 @@
+.head {
+    height: 70px;
+    width: 600px;
+    background-color: aqua;
+}
+
+.hero{
+    height: 200px;
+    width: 200px;
+    background-color: plum;
+    flex-direction: column;
+}
+.sidebar{
+    height: 250px;
+    width: 200px;
+    background-color: lightgreen;
+    flex-direction: column;
+}
+    
+.maincontent{
+    height: 350px;
+    width: 400px;
+    background-color: darkgoldenrod;  
+}
+.extracontent{
+    height: 100px;
+    width: 400px;
+    background-color: gray;
+    flex-direction: column;
+}
+
+.box3{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+
+.relatedimages{
+    height: 80px;
+    width: 400px;
+    background-color:darkgreen; 
+   
+}
+.relatedposts{
+    height: 80px;
+    width: 200px;
+    background-color:pink; 
+    
+}
+
+.foot{
+    height: 70px;
+    width: 600px;
+    background-color:orange;
+
+}
+.middle{
+    display: flex;
+    justify-content: flex-start;
+   ;
+}
